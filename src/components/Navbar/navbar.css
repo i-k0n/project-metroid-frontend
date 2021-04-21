@@ -1,0 +1,10 @@
+.nav__link-container,
+.search-bar__container,
+.login__links-container,
+.overlay {
+  display: none;
+}
+
+.is-visible {
+  display: flex;
+}
